@@ -50,7 +50,7 @@ About cryptocurrency security. (reverse, exploit, fuzz..)
 
 [Trailofbits-blockchain](https://blog.trailofbits.com/category/blockchain/)
 
-[blackhat](https://cansecwest.com/slides/2018/Blackhat%20Ethereum%20%20Ryan%20Stortz%20and%20Jay%20Little,%20Trail%20of%20Bits,%20Inc.pdf) - Blackhat Ethereum.
+[blackhat](https://cansecwest.com/slides/2018/Blackhat%20Ethereum%20-%20Ryan%20Stortz%20and%20Jay%20Little,%20Trail%20of%20Bits,%20Inc.pdf) - Blackhat Ethereum.
 
 [solidified](https://medium.com/solidified/parity-hack-how-it-happened-and-its-aftermath-9bffb2105c0) - Parity hack.
 
